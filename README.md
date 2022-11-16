@@ -3,7 +3,9 @@
 Análise de Dados usando linguaguem SQL
 
 Fonte de Dados: Delivery Center: Food & Goods orders in Brazil. 
+
 Com seus diversos hubs operacionais espalhados pelo Brasil, o Delivery Center é uma plataforma integra lojistas e marketplaces, criando um ecossistema para vendas de good (produtos) e food (comidas) no varejo brasileiro.
+
 Os dados utilizados nesse projeto estão disponíveis na plataforma Kaggle em: https://www.kaggle.com/datasets/nosbielcs/brazilian-delivery-center 
 
 Descrição dos datasets
