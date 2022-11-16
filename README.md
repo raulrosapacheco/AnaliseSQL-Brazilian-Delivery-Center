@@ -39,3 +39,11 @@ As Perguntas Negócio foram desenvolvidas pelo curso SQL Para Data Science da Da
 19. Em que data houve a maior média de valor do pedido (order_amount)?
 20. Em quais datas o valor do pedido foi igual a zero (ou seja, não houve venda)? 
 
+Neste projeto foi possível consolidar os seguintes conhecimentos:
+- Carga de Dados via linha de comando
+- COUNT, MAX, MIN, SUM
+- ROUND
+- INNER JOIN, LEFT JOIN, RIGHT JOIN
+- GROUP BY
+- HAVING
+- WITH ROLLUP
